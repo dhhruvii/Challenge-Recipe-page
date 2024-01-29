@@ -110,6 +110,10 @@ h2{
       align-items: center;
       border-bottom: .2px solid var(--Light-Grey);
     }
+    footer{
+      text-align: center;
+      padding: 2em;
+    }
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
